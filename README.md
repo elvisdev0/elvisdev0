@@ -3,10 +3,9 @@
 ![me](https://user-images.githubusercontent.com/57382598/107990904-7a787880-6fa3-11eb-81f3-0dc8fbe91aa4.jpg)
 
 ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+const elvisdev = {
+  code: [HTML, CSS, JavaScript, Java, PHP],
+  tools:[Bash, Bootstrap, Azure],
 }
 ```
 
