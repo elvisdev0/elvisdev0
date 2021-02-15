@@ -1,12 +1,7 @@
 ### Hi, I'm Elvis 👋
 
-<!DOCTYPE html>
-<html>
-<title>HTML Tutorial</title>
-<body>
-  <iframe src="https://drive.google.com/file/d/1st0qv9NPE97GHOkiy7tW5UFCG1TxVzgZ/preview" width="640" height="480"></iframe>
-</body>
-</html>
+![me](https://user-images.githubusercontent.com/57382598/107986763-bd821e00-6f9a-11eb-98da-44519882e52d.jpg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
