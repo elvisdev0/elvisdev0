@@ -1,6 +1,6 @@
 ### Hi, I'm Elvis 👋
 
-![me](https://github.com/elvisdev0/elvisdev0/issues/1#issue-808774570)
+![me](https://user-images.githubusercontent.com/57382598/107990904-7a787880-6fa3-11eb-81f3-0dc8fbe91aa4.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
