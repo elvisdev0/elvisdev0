@@ -1,7 +1,6 @@
 ### Hi, I'm Elvis 👋
 
-![me](<iframe src="https://drive.google.com/file/d/1st0qv9NPE97GHOkiy7tW5UFCG1TxVzgZ/preview" width="640" height="480"></iframe>
-Here are some ideas to get you started:)
+<iframe src="https://drive.google.com/file/d/1st0qv9NPE97GHOkiy7tW5UFCG1TxVzgZ/preview" width="640" height="480"></iframe>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
