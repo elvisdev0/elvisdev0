@@ -10,9 +10,9 @@ const elvisdev = {
 ```
 
 You can find me: 
-- [Twitter](https://www.youtube.com/channel/UCpyvp9Vz9unUpX0G9vTvw9A)
+- [Twitter](https://twitter.com/elvis7huerta)
 - [Instagram](https://www.instagram.com/elvisdevs)
-- [YouTube](https://twitter.com/elvis7huerta)
+- [YouTube](https://www.youtube.com/channel/UCpyvp9Vz9unUpX0G9vTvw9A)
 
 
 - 🔭 I’m currently working on ...
