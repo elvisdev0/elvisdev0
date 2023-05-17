@@ -9,12 +9,10 @@ const elvisdev = {
 }
 ```
 
-
 You can find me: 
-- [Twitter](https://twitter.com/elvis7huerta)
+- [Twitter](https://twitter.com/ElvisDevs)
+- [LinkedIn](https://www.linkedin.com/in/elvis-huerta/)
 - [YouTube](https://www.youtube.com/channel/UCpyvp9Vz9unUpX0G9vTvw9A)
-
-
 
 
 - 🔭 I’m currently working on ...
