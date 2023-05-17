@@ -4,8 +4,8 @@
 
 ```javascript
 const elvisdev = {
-  code: [HTML, CSS, JavaScript, Java, PHP, React, NodeJS, MySQL],
-  tools:[Bash, Git, GitHub],
+  code: [HTML, CSS, PHP, Java, JavaScript, React, NodeJS, MySQL],
+  tools:[Bash, Git, Azure],
 }
 ```
 
